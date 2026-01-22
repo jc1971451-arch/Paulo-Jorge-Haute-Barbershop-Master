@@ -1,0 +1,10 @@
+{
+  "name": "Paulo Jorge | Haute Barbershop Master",
+  "short_name": "Paulo Jorge",
+  "description": "The Ultimate Grooming Experience. Agendamento de luxo, gestão de imagem e rituais exclusivos.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
